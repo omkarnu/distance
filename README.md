@@ -1,4 +1,4 @@
-# distance
+# Go utility to get distance between two points
 
 Installation:
 
